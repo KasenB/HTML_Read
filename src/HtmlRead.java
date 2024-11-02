@@ -21,7 +21,6 @@ public class HtmlRead {
             while ( (line = reader.readLine()) != null ) {
                 if (line.contains("/wiki/")){
                     int start = line.indexOf("/wiki/");
-//                    int end = line.indexOf();
                     System.out.println(line.substring(start));
                 }
             }
