@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3463ee3a-d71e-4e92-ac23-114d76586b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML_Read.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HtmlRead.java" afterDir="false" />
-    </list>
+    <list default="true" id="3463ee3a-d71e-4e92-ac23-114d76586b5b" name="Changes" comment="Finished HW" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +46,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730389686255</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished HW">
+      <option name="closed" value="true" />
+      <created>1730567174360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730567174360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished HW">
+      <option name="closed" value="true" />
+      <created>1730567219781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730567219781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished HW" />
   </component>
 </project>
